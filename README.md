@@ -1,5 +1,8 @@
 # Professional Traffic Light Sequence Using Arduino
 
+# You can test the traffic light simulation directly in your browser: 
+[Run Traffic Light Simulation](https://wokwi.com/projects/440885017258592257)
+
 # Description
 
 This project simulates a realistic traffic light system using an Arduino Uno. It demonstrates:
